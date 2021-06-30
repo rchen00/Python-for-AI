@@ -1,0 +1,390 @@
+word --       to        -- frequency: 189 
+word --      match      -- frequency: 167 
+word --       you       -- frequency: 151 
+word --       of        -- frequency: 147 
+word --       in        -- frequency: 123 
+word --      group      -- frequency: 110 
+word --       re        -- frequency: 106 
+word --       for       -- frequency: 104 
+word --      that       -- frequency: 101 
+word --     regular     -- frequency: 100 
+word --    character    -- frequency: 99 
+word --   expression    -- frequency: 97 
+word --     string      -- frequency: 96 
+word --     number      -- frequency: 83 
+word --      regex      -- frequency: 78 
+word --      text       -- frequency: 72 
+word --      with       -- frequency: 71 
+word --       or        -- frequency: 68 
+word --       mo        -- frequency: 65 
+word --       can       -- frequency: 64 
+word --     search      -- frequency: 60 
+word --       it        -- frequency: 60 
+word --     compile     -- frequency: 60 
+word --      phone      -- frequency: 56 
+word --      will       -- frequency: 55 
+word --     pattern     -- frequency: 53 
+word --       ha        -- frequency: 52 
+word --       thi       -- frequency: 48 
+word --       as        -- frequency: 47 
+word --    following    -- frequency: 46 
+word --       if        -- frequency: 43 
+word --    matching     -- frequency: 40 
+word --     return      -- frequency: 39 
+word --     example     -- frequency: 38 
+word --       not       -- frequency: 37 
+word --       by        -- frequency: 36 
+word --       are       -- frequency: 34 
+word --     object      -- frequency: 34 
+word --      into       -- frequency: 34 
+word --       do        -- frequency: 33 
+word --       be        -- frequency: 32 
+word --      digit      -- frequency: 32 
+word --       at        -- frequency: 32 
+word --      enter      -- frequency: 32 
+word --     method      -- frequency: 32 
+word --       on        -- frequency: 31 
+word --      more       -- frequency: 30 
+word --      code       -- frequency: 30 
+word --   interactive   -- frequency: 29 
+word --      shell      -- frequency: 29 
+word --       one       -- frequency: 28 
+word --       but       -- frequency: 28 
+word --      have       -- frequency: 28 
+word --       all       -- frequency: 26 
+word --      email      -- frequency: 26 
+word --       use       -- frequency: 26 
+word --      what       -- frequency: 26 
+word --       ymy       -- frequency: 24 
+word --       rst       -- frequency: 24 
+word --    clipboard    -- frequency: 24 
+word --       any       -- frequency: 23 
+word --     findall     -- frequency: 23 
+word --     program     -- frequency: 22 
+word --       an        -- frequency: 22 
+word --      also       -- frequency: 20 
+word --      like       -- frequency: 20 
+word --       nd        -- frequency: 19 
+word --      want       -- frequency: 19 
+word --     python      -- frequency: 19 
+word --      name       -- frequency: 19 
+word --     robocop     -- frequency: 19 
+word --     address     -- frequency: 18 
+word --      make       -- frequency: 18 
+word --      from       -- frequency: 18 
+word --    function     -- frequency: 18 
+word --       so        -- frequency: 18 
+word --      part       -- frequency: 18 
+word --      three      -- frequency: 17 
+word --     chapter     -- frequency: 17 
+word --     matched     -- frequency: 17 
+word --     batman      -- frequency: 17 
+word --       dot       -- frequency: 17 
+word --       how       -- frequency: 16 
+word --  isphonenumber  -- frequency: 16 
+word --      print      -- frequency: 16 
+word --      only       -- frequency: 16 
+word --      call       -- frequency: 16 
+word --      each       -- frequency: 16 
+word --  phonenumregex  -- frequency: 16 
+word --      need       -- frequency: 16 
+word --      word       -- frequency: 15 
+word --       two       -- frequency: 15 
+word --      write      -- frequency: 15 
+word --      these      -- frequency: 15 
+word --   parenthesis   -- frequency: 15 
+word --     greedy      -- frequency: 15 
+word --      clas       -- frequency: 15 
+word --    argument     -- frequency: 14 
+word --     message     -- frequency: 14 
+word --     second      -- frequency: 14 
+word --       wo        -- frequency: 14 
+word --      list       -- frequency: 14 
+word --     letter      -- frequency: 14 
+word --      step       -- frequency: 13 
+word --    followed     -- frequency: 13 
+word --      then       -- frequency: 13 
+word --      area       -- frequency: 13 
+word --      mean       -- frequency: 13 
+word --      would      -- frequency: 13 
+word --      last       -- frequency: 13 
+word --      which      -- frequency: 13 
+word --    batregex     -- frequency: 13 
+word --       man       -- frequency: 13 
+word --      star       -- frequency: 13 
+word --     hyphen      -- frequency: 12 
+word --      such       -- frequency: 12 
+word --      just       -- frequency: 12 
+word --     between     -- frequency: 12 
+word --      must       -- frequency: 12 
+word --      chunk      -- frequency: 12 
+word --      found      -- frequency: 12 
+word --     create      -- frequency: 12 
+word --     actual      -- frequency: 12 
+word --    preceding    -- frequency: 12 
+word --      agent      -- frequency: 12 
+word --      find       -- frequency: 12 
+word --       we        -- frequency: 11 
+word --       no        -- frequency: 11 
+word --       ll        -- frequency: 11 
+word --      using      -- frequency: 11 
+word --       end       -- frequency: 11 
+word --      there      -- frequency: 11 
+word --      brace      -- frequency: 11 
+word --    instance     -- frequency: 11 
+word --      zero       -- frequency: 11 
+word --     newline     -- frequency: 11 
+word --      serve      -- frequency: 11 
+
+pattern        53 matching       40 with           71 regular        100
+expression     97 you            151may            6  be             32 
+familiar       1  searching      3  for            104text           72 
+by             36 pressing       1  ctrl           5  entering       1  
+word           15 re             106looking        2  go             2  
+one            28 step           13 further        1  they           5  
+allow          4  to             189specify        7  of             147
+search         60 not            37 know           9  busines        1  
+exact          3  phone          56 number         83 but            28 
+if             43 live           1  in             123united         1  
+state          1  or             68 canada         1  it             60 
+will           55 three          17 digit          32 followed       13 
+hyphen         12 then           13 fmy            10 more           30 
+optionally     2  area           13 code           30 at             32 
+start          6  thi            48 how            16 as             47 
+human          1  when           10 see            9  we             11 
+also           20 recognize      1  all            26 sort           1  
+other          10 every          8  day            10 email          26 
+address        18 have           28 symbol         8  middle         1  
+social         3  security       2  nine           1  two            15 
+website        3  url            2  often          3  period         7  
+forward        1  slash          1  news           1  headline       1  
+use            26 title          1  case           7  medium         1  
+hashtag        1  begin          7  contain        7  no             11 
+space          10 chapter        17 are            34 helpful        1  
+few            2  non            10 programmer     2  about          10 
+them           8  even           3  though         2  most           4  
+modern         1  editor         2  processor      1  such           12 
+microsoft      1  openof         1  ce             1  nd             19 
+replace        6  feature        3  that           101can            64 
+based          2  on             31 huge           1  time           7  
+saver          1  just           12 software       1  user           2  
+fact           2  tech           1  writer         1  cory           2  
+doctorow       2  argue          1  should         8  teaching       1  
+before         2  programming    2  knowing        2  mean           13 
+difference     5  between        12 solving        2  problem        2  
+nerd           1  forget         1  solve          1  cou            1  
+ple            1  keystroke      1  take           6  person         1  
+tediou         1  error          6  prone          1  work           7  
+slog           1  through        5  ll             11 writing        4  
+program        22 out            4  using          11 make           18 
+much           7  les            4  bloated        1  show           2  
+basic          3  move           1  some           5  powerful       2  
+string         96 substitution   5  creating       4  ymy            24 
+own            3  character      99 class          9  finally        1  
+end            11 write          15 automatically  1  extract        1  
+from           18 block          1  finding        2  without        2  
+say            6  want           19 an             22 american       2  
+here           4  example        38 let            6  function       18 
+named          3  isphonenumber  16 check          10 whether        5  
+match          167returning      1  either         4  true           3  
+false          9  open           2  new            5  le             3  
+tab            3  enter          32 following      46 save           2  
+py             8  def            1  len            3  return         39 
+range          9  isdecimal      3  what           26 ict            2  
+really         2  teach          2  kid            2  do             33 
+guardian       1  december       1  http           8  www            2  
+theguardian    1  com            4  technology     1  dec            1  
+trueprint      1  print          16 moshi          10 run            6  
+output         3  look           10 like           20 truei          1  
+falsethe       1  ha             52 several        6  valid          5  
+any            23 these          15 fail           3  first          7  
+exactly        3  rst            24 consist        1  only           16 
+numeric        10 rest           3  follow         3  must           12 
+after          5  another        4  nally          1  execution      1  
+manage         1  get            9  past           1  calling        2  
+argument       14 test           2  because        2  long           7  
+wanted         2  within         2  larger         1  would          13 
+add            3  last           13 call           16 message        14 
+me             7  tomorrow       1  my             9  office         1  
+chunk          12 found          12 done           5  each           16 
+iteration      3  loop           5  assigned       3  variable       10 
+itera          1  tion           2  next           3  value          8  
+so             18 pas            7  continue       1  eventually     1  
+entire         5  testing        1  piece          3  printing       1  
+sati           1  es             1  once           4  going          1  
+while          10 short          4  could          9  million        1  
+still          1  than           7  second         14 similar        2  
+quicker        1  previou        8  nding          4  lot            3  
+something      3  limited        1  line           5  formatted      1  
+num            1  ber            1  had            2  extension      5  
+validate       2  yet            2  addi           1  tional         1  
+there          11 easier         3  way            2  called         7  
+regex          78 description    1  pat            2  tern           2  
+stand          3  single         9  numeral        1  used           3  
+python         19 same           5  did            3  sophisticated  1  
+adding         2  brace          11 saying         2  slightly       2  
+shorter        5  correct        3  format         7  object         34 
+module         7  into           34 interactive    29 shell          29 
+import         8  renote         1  require        3  remember       9  
+beginning      3  script         1  restart        1  mu             1  
+otherwise      2  nameerror      1  name           19 defined        1  
+passing        6  representing   1  compile        60 simply         2  
+create         12 phonenumregex  16 now            9  method         32 
+passed         8  none           3  which          13 group          110
+actual         12 matched        17 searched       6  explain        1  
+shortly        1  mo             65 generic        1  might          4  
+seem           1  complicated    2  earlier        3  thing          4  
+desired        1  store          3  result         6  ing            3  
+during         1  stored         1  returned       2  null           1  
+inside         6  display        2  whole          1  review         3  
+fairly         2  simple         2  raw            3  note           10 
+encourage      1  web            3  tester         2  recommend      2  
+pythex         1  org            2  expre          4  sion           4  
+ready          1  try            2  their          2  capability     1  
+grouping       2  parenthesis    15 separate       2  grab           2  
+set            4  sec            1  ond            1  integer        1  
+different      4  part           18 nothing        1  retrieve       1  
+plural         1  form           3  areacode       3  mainnumber     3  
+since          6  tuple          9  multiple       6  assignment     1  
+trick          1  assign         1  special        2  meaning        6  
+need           16 parenthesi     6  instance       11 maybe          1  
+trying         1  escape         8  backslash      7  detect         6  
+sure           2  double         4  haven          1  mistaken       1  
+escaped        2  parenthe       3  se             3  receive        1  
+missing        4  unbalanced     1  forgotten      1  include        3  
+closing        5  unescaped      1  traceback      1  recent         1  
+snip           4  unterminated   2  subpattern     2  position       1  
+tell           3  opening        3  index          2  corresponding  1  
+pipe           8  anywhere       1  many           4  batman         17 
+tina           7  fey            7  both           7  occur          3  
+occurrence     2  heroregex      3  findall        23 discussed      1  
+ndall          1  page           5  batmobile      4  batcopter      1  
+batbat         1  bat            7  nice           2  pre            4  
+batregex       13 man            13 mobile         3  copter         1  
+lost           1  wheel          1  full           3  alternative    1  
+optional       7  question       9  mark           9  sometime       4  
+regardles      1  bit            1  ag             1  precede        2  
+wo             14 adventure      9  batwoman       8  zero           11 
+why            6  phoneregex     6  think          4  ceding         1  
+star           13 asterisk       1  completely     2  absent         1  
+repeated       2  over           4  again          3  batwowowowoman 5  
+plu            7  unlike         1  appear         2  preceding      12 
+least          5  compare        1  section        1  nonetruethe    3  
+required       1  sign           8  specific       1  repetition     1  
+repeat         2  specus         4  hahaha         7  haha           1  
+latter         1  instead        4  minimum        2  comma          4  
+maximum        2  hahahaha       2  hahahahaha     6  leave          2  
+unbounded      1  ve             3  help           2  identical      2  
+haregex        3  nonetruehere   1  doesn          2  greedy         15 
+wonder         1  possibili      1  ty             1  default        1  
+ambiguou       1  situation      1  longest        2  possible       7  
+lazy           1  version        6  shortest       1  notice         2  
+differ         1  ence           1  greedyharegex  2  nongreedyharegex 2  
+declaring      1  agging         1  entirely       1  unrelated      1  
+addition       1  cell           3  hand           2  list           14 
+represent      2  item           1  action         1  being          1  
+compiled       1  summarize      1  learned        2  shorthand      7  
+shown          1  table          2  common         2  clas           15 
+dany           2  wany           2  letter         14 underscore     5  
+sany           2  newline        11 shortening     1  char           1  
+acter          1  typing         1  za             7  explained      1  
+xmasregex      2  drummer        3  piper          3  lord           2  
+lady           2  maid           2  swan           2  goose          2  
+ring           3  bird           2  hen            3  dove           2  
+partridge      2  whitespace     3  making         2  too            2  
+broad          2  de             3  ne             2  square         2  
+bracket        8  aeiouaeiou     3  vowel          3  lowercase      6  
+uppercase      5  vowelregex     2  robocop        19 eat            7  
+baby           4  food           4  normal         1  interpreted    1  
+placing        1  caret          4  negative       2  consonantregex 2  
+isn            2  dollar         4  indicate       3  likewise       1  
+put            3  together       1  enough         1  made           2  
+subset         1  hello          6  beginswithhello 3  world          1  
+span           3  he             1  said           1  endswithnumber 3  
+forty          1  nonetruepattern 1  wholestringisnum 4  xyz            1  
+nonetrue       1  demonstrate    1  alway          3  confuse        1  
+mne            1  monic          1  carrot         1  cost           1  
+remind         1  myself         1  come           4  wildcard       2  
+dot            17 except         6  atregex        2  cat            6  
+hat            2  sat            2  flat           2  mat            3  
+lat            2  everything     6  anything       6  nameregex      2  
+al             3  sweigart       2  mode           2  fashion        1  
+nongreedyregex 2  serve          11 dinner         5  greedyregex    2  
+roughly        1  translate      1  angle          3  est            1  
+dotall         9  including      3  nonewlineregex 3  public         4  
+trust          4  nprotect       3  innocent       4  nuphold        3  
+law            3  newlineregex   4  created        2  up             6  
+wherea         1  covered        1  notation       1  quick          1  
+syntax         5  perform        1  spam           4  respectively   2  
+abc            2  insensitive    5  normally       2  casing         1  
+care           1  wor            1  rying          1  ignorecase     6  
+machine        1  cop            1  protect        1  book           2  
+talk           1  substituting   2  sub            10 substitute     1  
+place          1  those          3  applied        1  namesregex     2  
+agent          12 censored       3  alouse         7  gave           2  
+secret         3  document       3  bob            5  itself         2  
+type           1  censor         1  showing        1  replaced       2  
+whatever       1  wa             3  agentnamesregex 2  told           3  
+carol          4  eve            1  knew           2  managing       1  
+complex        1  convoluted     1  reg            1  ular           1  
+mitigate       1  telling        1  ignore         2  comment        6  
+verbose        10 enabled        1  hard           2  read           3  
+ext            8  spread         2  separator      6  digitspattern  1  
+triple         1  quote          1  multiline      3  nition         1  
+legible        1  rule           2  ignored        1  extra          1  
+considered     1  organize       1  combining      2  capitalization 1  
+unfortunately  1  around         1  limitation     1  context        1  
+known          2  bitwise        2  operator       2  someregexvalue 2  
+foo            2  option         2  little         1  old            1  
+fashioned      1  originate      1  early          1  detail         1  
+beyond         1  scope          1  resource       3  nostarch       6  
+automatestuff  1  information    2  uncommon       1  project        4  
+addres         6  extractor      2  boring         1  task           2  
+manually       1  scroll         1  pro            2  gram           2  
+clipboard      24 pres           5  select         2  copy           9  
+whenever       1  tackling       1  tempting       1  dive           1  
+right          2  best           1  back           1  consider       1  
+bigger         1  picture        1  drawing        1  high           1  
+level          2  plan           1  don            2  worry          1  
+later          1  stick          1  stroke         1  off            2  
+find           12 paste          5  onto           1  thinking       1  
+pyperclip      8  neatly         1  kind           1  were           2  
+road           1  map            1  focu           1  separately     1  
+manageable     1  expressed      1  term           1  already        1  
+phoneandemail  5  rephoneregex   3  todo           7  skeleton       1  
+joining        1  supposed       1  joined         1  straightforward 1  
+fol            1  lowed          1  easy           1  mixed          1  
+emailregex     3  username       3  domain         4  percent        1  
+separated      1  permissive     1  technically    1  top            1  
+weird          1  won            1  almost         1  typical        1  
+encounter      1  ed             2  str            1  phonenum       4  
+join           5  append         5  interested     1  empty          1  
+couple         1  appended       1  standard       2  built          1  
+func           1  working        1  terminal       1  copied         2  
+else           1  running        1  browser        1  starch         1  
+contact        1  contactu       1  info           2  commedium      1  
+comacademic    1  cominfo        1  comidea        1  identifying    1  
+possibly       1  potential      1  application    2  clean          1  
+date           8  replacing      1  remove         1  sensitive      1  
+credit         1  card           1  typo           1  acciden        1  
+tally          1  accidentally   1  exclamation    1  sentence       3  
+annoying       1  summary        1  computer       1  quickly        1  
+precisely      1  charac         2  ters           2  rather         1  
+processing     1  spreadsheet    1  provide        1  cial           1  
+documentation  1  doc            1  library        1  html           1  
+useful         1  tutorial       1  practice       3  cover          1  
+signify        4  numregex       2  five           1  lack           1  
+someone        1  whose          1  watanabe       9  assume         2  
+capital        1  haruto         3  where          4  capitalized    2  
+mr             1  nonletter      1  pet            2  throw          4  
+third          1  apple          4  baseball       2  football       1  
+detection      2  dd             1  mm             1  yyyy           1  
+month          5  year           8  leading        1  leap           3  
+accept         1  nonexistent    1  additional     1  april          1  
+june           1  september      1  november       1  february       2  
+evenly         3  divisible      2  divi           1  ible           1  
+unles          1  cal            1  culation       1  impossible     1  
+reasonably     1  sized          1  strong         3  password       3  
+ned            1  eight          1  against        1  mul            1  
+tiple          1  strength       1  strip          3  removed        2  
+argu           1  ment           1  
